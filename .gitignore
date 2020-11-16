@@ -1,5 +1,9 @@
 .vscode/
 data/
+ibge/
+treedot/
+treepng/
+trees/
 
 *.html
 *.png
